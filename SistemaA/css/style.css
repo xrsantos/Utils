@@ -1,7 +1,8 @@
 body {
     background: #f7f7f7;
-    margin: 20px;
-  }
+    margin: 0 auto;  
+    font-family: 'Lato', sans-serif;
+}
   
   #ativar {
     display: block;
@@ -93,7 +94,7 @@ body {
   }
 
   .UrlLinks {
-    color: #5c3af5;
+    color: #240f82;
     text-decoration: none;
     font-family: sans-serif;
     font-size: 1rem;    
@@ -104,4 +105,46 @@ body {
     margin-bottom: 20px;
 
   }
- 
+
+  
+  .wrapper{
+    position: relative;
+    margin-left: 50px;
+  }
+  
+  a.linka{
+    display: block;
+    width: 300px;
+    height: 50px;
+    line-height: 50px;
+    font-weight: bold;
+    text-decoration: none;
+    background: rgb(92, 79, 238);
+    text-align: center;
+    color: #fff;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    border: 3px solid #6965b1;
+    transition: all .35s;
+  }
+  
+  .icon{
+    width: 50px;
+    height: 50px;
+    border: 3px solid transparent;
+    position: absolute;
+    transform: rotate(45deg);
+    right: 0;
+    top: 0;
+    z-index: -1;
+    transition: all .06s;
+  }
+  
+  a.linka:hover{
+    width: 200px;
+    margin-left: 50px;
+    border: 3px solid #060074;
+    background: transparent;
+    color: #060074;
+  }
+  
