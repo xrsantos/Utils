@@ -1,0 +1,16 @@
+C:\Source\DotNet\class_and_stru\bin\Debug\net5.0\class_and_stru.exe
+C:\Source\DotNet\class_and_stru\bin\Debug\net5.0\class_and_stru.deps.json
+C:\Source\DotNet\class_and_stru\bin\Debug\net5.0\class_and_stru.runtimeconfig.json
+C:\Source\DotNet\class_and_stru\bin\Debug\net5.0\class_and_stru.runtimeconfig.dev.json
+C:\Source\DotNet\class_and_stru\bin\Debug\net5.0\class_and_stru.dll
+C:\Source\DotNet\class_and_stru\bin\Debug\net5.0\ref\class_and_stru.dll
+C:\Source\DotNet\class_and_stru\bin\Debug\net5.0\class_and_stru.pdb
+C:\Source\DotNet\class_and_stru\obj\Debug\net5.0\class_and_stru.csproj.AssemblyReference.cache
+C:\Source\DotNet\class_and_stru\obj\Debug\net5.0\class_and_stru.GeneratedMSBuildEditorConfig.editorconfig
+C:\Source\DotNet\class_and_stru\obj\Debug\net5.0\class_and_stru.AssemblyInfoInputs.cache
+C:\Source\DotNet\class_and_stru\obj\Debug\net5.0\class_and_stru.AssemblyInfo.cs
+C:\Source\DotNet\class_and_stru\obj\Debug\net5.0\class_and_stru.csproj.CoreCompileInputs.cache
+C:\Source\DotNet\class_and_stru\obj\Debug\net5.0\class_and_stru.dll
+C:\Source\DotNet\class_and_stru\obj\Debug\net5.0\ref\class_and_stru.dll
+C:\Source\DotNet\class_and_stru\obj\Debug\net5.0\class_and_stru.pdb
+C:\Source\DotNet\class_and_stru\obj\Debug\net5.0\class_and_stru.genruntimeconfig.cache

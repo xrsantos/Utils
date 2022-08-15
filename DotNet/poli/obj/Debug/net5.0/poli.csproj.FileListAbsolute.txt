@@ -1,0 +1,16 @@
+C:\Source\DotNet\poli\bin\Debug\net5.0\poli.exe
+C:\Source\DotNet\poli\bin\Debug\net5.0\poli.deps.json
+C:\Source\DotNet\poli\bin\Debug\net5.0\poli.runtimeconfig.json
+C:\Source\DotNet\poli\bin\Debug\net5.0\poli.runtimeconfig.dev.json
+C:\Source\DotNet\poli\bin\Debug\net5.0\poli.dll
+C:\Source\DotNet\poli\bin\Debug\net5.0\ref\poli.dll
+C:\Source\DotNet\poli\bin\Debug\net5.0\poli.pdb
+C:\Source\DotNet\poli\obj\Debug\net5.0\poli.csproj.AssemblyReference.cache
+C:\Source\DotNet\poli\obj\Debug\net5.0\poli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Source\DotNet\poli\obj\Debug\net5.0\poli.AssemblyInfoInputs.cache
+C:\Source\DotNet\poli\obj\Debug\net5.0\poli.AssemblyInfo.cs
+C:\Source\DotNet\poli\obj\Debug\net5.0\poli.csproj.CoreCompileInputs.cache
+C:\Source\DotNet\poli\obj\Debug\net5.0\poli.dll
+C:\Source\DotNet\poli\obj\Debug\net5.0\ref\poli.dll
+C:\Source\DotNet\poli\obj\Debug\net5.0\poli.pdb
+C:\Source\DotNet\poli\obj\Debug\net5.0\poli.genruntimeconfig.cache
