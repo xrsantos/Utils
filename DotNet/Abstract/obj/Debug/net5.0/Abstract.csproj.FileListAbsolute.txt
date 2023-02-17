@@ -1,0 +1,16 @@
+C:\Source\Utils\DotNet\Abstract\bin\Debug\net5.0\Abstract.exe
+C:\Source\Utils\DotNet\Abstract\bin\Debug\net5.0\Abstract.deps.json
+C:\Source\Utils\DotNet\Abstract\bin\Debug\net5.0\Abstract.runtimeconfig.json
+C:\Source\Utils\DotNet\Abstract\bin\Debug\net5.0\Abstract.runtimeconfig.dev.json
+C:\Source\Utils\DotNet\Abstract\bin\Debug\net5.0\Abstract.dll
+C:\Source\Utils\DotNet\Abstract\bin\Debug\net5.0\ref\Abstract.dll
+C:\Source\Utils\DotNet\Abstract\bin\Debug\net5.0\Abstract.pdb
+C:\Source\Utils\DotNet\Abstract\obj\Debug\net5.0\Abstract.csproj.AssemblyReference.cache
+C:\Source\Utils\DotNet\Abstract\obj\Debug\net5.0\Abstract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Source\Utils\DotNet\Abstract\obj\Debug\net5.0\Abstract.AssemblyInfoInputs.cache
+C:\Source\Utils\DotNet\Abstract\obj\Debug\net5.0\Abstract.AssemblyInfo.cs
+C:\Source\Utils\DotNet\Abstract\obj\Debug\net5.0\Abstract.csproj.CoreCompileInputs.cache
+C:\Source\Utils\DotNet\Abstract\obj\Debug\net5.0\Abstract.dll
+C:\Source\Utils\DotNet\Abstract\obj\Debug\net5.0\ref\Abstract.dll
+C:\Source\Utils\DotNet\Abstract\obj\Debug\net5.0\Abstract.pdb
+C:\Source\Utils\DotNet\Abstract\obj\Debug\net5.0\Abstract.genruntimeconfig.cache
